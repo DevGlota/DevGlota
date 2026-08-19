@@ -40,7 +40,7 @@ Atualmente, estou focado em desenvolver minhas habilidades em **desenvolvimento 
 
 - 🌐 Desenvolvimento Full Stack
 - 💻 Engenharia de Software
-
+- 🔒 Cibersegurança
 
 
 
