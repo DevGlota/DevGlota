@@ -12,9 +12,7 @@ Atualmente, estou focado em desenvolver minhas habilidades em **desenvolvimento 
 
 - 🎓 Estudante de **Engenharia de Software**
 - 💻 Focado em **Desenvolvimento Full Stack**
-- ☕ Estudando **Java**
 - 🌐 Desenvolvendo projetos com **HTML, CSS e JavaScript**
-- 🔧 Utilizando **Git e GitHub** para versionamento
 - 📚 Sempre buscando aprender novas tecnologias
 - 🚀 Construindo projetos para desenvolver experiência prática
 
@@ -40,12 +38,9 @@ Atualmente, estou focado em desenvolver minhas habilidades em **desenvolvimento 
 
 📚 **Atualmente estudando**
 
-- ☕ Java
 - 🌐 Desenvolvimento Full Stack
-- 🗄️ Banco de Dados
-- 🔌 APIs
 - 💻 Engenharia de Software
-- 🔧 Git e GitHub
+
 
 ---
 
@@ -65,23 +60,6 @@ Projeto desenvolvido utilizando **JavaScript**, com foco em prática e desenvolv
 
 **🎨 Projetos Front-End**  
 Diversos projetos desenvolvidos durante meus estudos para praticar conceitos de HTML, CSS e JavaScript.
-
----
-
-📊 **GitHub Stats**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGlota&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGlota&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-📈 **GitHub Streak**
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevGlota&theme=tokyonight" />
-</p>
 
 ---
 
