@@ -42,37 +42,5 @@ Atualmente, estou focado em desenvolver minhas habilidades em **desenvolvimento 
 - 💻 Engenharia de Software
 
 
----
 
-🚀 **Projetos**
 
-**📋 Lista de Contatos**  
-Projeto desenvolvido para praticar conceitos de **Front-End**, utilizando HTML.
-
-**💳 Price Cards**  
-Projeto desenvolvido para praticar a criação e estilização de componentes utilizando **HTML e CSS**.
-
-**🔐 Login e Cadastro**  
-Projeto desenvolvido durante os estudos de **HTML e CSS**, colocando em prática a criação e estilização de telas de login e cadastro.
-
-**🌐 LangGlota**  
-Projeto desenvolvido utilizando **JavaScript**, com foco em prática e desenvolvimento de habilidades em programação.
-
-**🎨 Projetos Front-End**  
-Diversos projetos desenvolvidos durante meus estudos para praticar conceitos de HTML, CSS e JavaScript.
-
----
-
-🌎 **Conecte-se comigo**
-
-<p align="center">
-  <a href="https://github.com/DevGlota">
-    <img src="https://img.shields.io/badge/GitHub-DevGlota-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-💡 *"The best way to learn programming is to build."*
-
-⭐ Obrigado por visitar meu perfil!
